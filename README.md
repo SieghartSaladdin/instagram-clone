@@ -2,7 +2,7 @@
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/instagram-clone.git
+git clone https://github.com/SieghartSaladdin/instagram-clone.git
 
 composer install 
 
